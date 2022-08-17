@@ -1,0 +1,13 @@
+.msg {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 0 10px 10px 10px;
+    margin: 10px;
+    width: max-content;
+}
+
+.message > .message__name {
+    background-color: blue;
+    outline: 2px solid red;
+}
